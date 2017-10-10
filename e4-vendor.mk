@@ -4,8 +4,6 @@ PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/moto/e4/etc,system/
 
 PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/moto/e4/lib,system/lib)
 
-PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/moto/e4/priv-app,system/priv-app)
-
 PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/moto/e4/usr,system/usr)
 
 PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/moto/e4/vendor/bin,system/vendor/bin)
