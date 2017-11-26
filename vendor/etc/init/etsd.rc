@@ -1,3 +1,0 @@
-service etsd /vendor/bin/etsd
-    class late_start
-    user root

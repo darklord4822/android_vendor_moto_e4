@@ -1,4 +1,0 @@
-service emsvr /system/bin/em_svr
-    class main
-    user system
-    group system camera
